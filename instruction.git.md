@@ -40,3 +40,5 @@
 вводим команду **git diff**
 
 Прошу прощения за доставленные неудобства
+
+![саt](https://avatars.mds.yandex.net/i?id=054c19eab9be6fc10eeceb1b44e45bcd-5162829-images-thumbs&n=13)
